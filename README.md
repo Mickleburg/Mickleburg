@@ -1,17 +1,3 @@
-<div align="center">
-
-# Daniil
-
-**BMSTU (IU9) student · Moscow, Russia**  
-Aspiring **Data Scientist / Data Engineer** (open to internship / junior)
-
-<a href="https://t.me/<your_telegram>">
-  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white" />
-</a>
-<img src="https://komarev.com/ghpvc/?username=Mickleburg&style=flat-square" />
-
-</div>
-
 ---
 
 ## 🙋‍♂️ About me
