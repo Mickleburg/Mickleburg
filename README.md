@@ -16,8 +16,8 @@ Aspiring **Data Scientist / Data Engineer** (DS-first, open to ML)
 ## 🙋‍♂️ About me
 - 👋 Hi! I’m Daniil
 -  ⚡ I'm BMSTU (IU9) student
-- 🌱 I’m currently learning Data Science fundamentals (EDA, statistics), SQL for analytics, and building small ML prototypes in Python (Jupyter/NumPy/pandas/PyTorch).
--  👀 I’m interested in Data Science / Analytics and Data Engineering (data pipelines, data quality, evaluation).
+- 🌱 I’m currently learning Data Science fundamentals and building small ML prototypes in Python.
+-  👀 I’m interested in Data Science / Analytics and Data Engineering.
 
 ---
 
