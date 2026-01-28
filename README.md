@@ -14,11 +14,10 @@ Aspiring **Data Scientist / Data Engineer** (DS-first, open to ML)
 ---
 
 ## 🙋‍♂️ About me
-- 👋 Hi! I’m Daniil, a BMSTU (IU9) student.
-- 🎯 Target roles: **Data Science / Analytics / Data Engineering** (DS-first, open to ML).
-- 🧪 My day-to-day workflow: **Jupyter Notebook + NumPy + pandas** for EDA/baselines/evaluation, and **PyTorch** for prototyping + training/inference.
-- 🛠️ Comfortable with **Linux** and **Git**, and I care about reproducible pipelines (clear configs, metrics, repeatable runs).
-- 📚 BMSTU (IU9) completed courses: Algorithms & Data Structures, Computer Networks (Go), Mathematical Analysis, Algebra.
+- 👋 Hi! I’m Daniil
+-  ⚡ I'm BMSTU (IU9) student
+- 🌱 I’m currently learning Data Science fundamentals (EDA, statistics), SQL for analytics, and building small ML prototypes in Python (Jupyter/NumPy/pandas/PyTorch).
+-  👀 I’m interested in Data Science / Analytics and Data Engineering (data pipelines, data quality, evaluation).
 
 ---
 
