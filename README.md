@@ -5,7 +5,7 @@
 **BMSTU (IU9) student · Moscow, Russia**  
 Aspiring **Data Scientist / Data Engineer** (DS-first, open to ML)
 
-<a href="https://t.me/not_ready_to_add_yet">
+<a href="https://t.me/mickleburg">
   <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white" />
 </a>
 
