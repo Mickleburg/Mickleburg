@@ -40,6 +40,6 @@ Aspiring **Data Scientist / Data Engineer** (DS-first, open to ML)
 ## 📊 Most used languages
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mickleburg&layout=compact&theme=radical&hide_border=true&langs_count=8&cache_seconds=3600" alt="Top Languages" />
+    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mickleburg&layout=donut&langs_count=8" alt="Top Languages" />
   </a>
 </div>
