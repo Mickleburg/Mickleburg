@@ -21,12 +21,6 @@ Aspiring **Data Scientist / Data Engineer** (DS-first, open to ML)
 
 ---
 
-## 🔎 What I’m looking for
-- Internship / Junior: DS / DE (also open to ML-heavy roles).
-- Flexible with format (remote / hybrid / onsite) and tasks (research, engineering, product).
-
----
-
 ## 🚀 Languages & Tools
 
 ### Languages
